@@ -3,6 +3,5 @@ seaborn
 streamlit
 pandas
 emoji
-collections
 wordcloud
 urlextract
