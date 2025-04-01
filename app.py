@@ -2,7 +2,7 @@ import streamlit as st
 import preprocessor,helper
 import matplotlib.pyplot as plt
 import seaborn as sns
-st.sidebar.title("whatsapp chat analyzer")#to create side bar
+st.sidebar.title("Whatsapp Chat Analyzer by Divyansh Pal")#to create side bar
 #run krne ka command streamlit run app.py
 #to go to app.py type cd whatsapp in terminal
 
