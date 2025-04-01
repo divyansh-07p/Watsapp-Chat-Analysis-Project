@@ -34,7 +34,7 @@ if uploaded_file is not None:
         
         with col1:#Ensures the content inside is placed in the first column.
             st.header("total messages")#Displays a header text in first col
-            st.title(num_messages)*
+            st.title(num_messages)
         with col2:
             st.header("total words")
             st.title(num_words)
